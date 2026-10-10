@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+env/
+venv/
+mongodb.zip
+mongodb_bin/
+scratch/db_data/
+kit.zip
+candidate_kit/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.pytest_cache/
